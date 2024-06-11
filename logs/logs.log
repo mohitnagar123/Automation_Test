@@ -1,0 +1,78 @@
+[INFO ] 2024-06-05 12:33:36.812 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 12:33:37.057 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 12:33:40.199 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 12:33:52.889 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 12:33:54.317 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 12:33:54.536 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 12:33:55.071 [main] LoggerTest - Login
+[INFO ] 2024-06-05 12:34:40.365 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 12:34:40.580 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 12:34:41.385 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 12:34:59.911 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 12:35:00.800 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 12:35:00.949 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 12:35:01.059 [main] LoggerTest - Login
+[INFO ] 2024-06-05 12:35:03.249 [main] LoggerTest - Click on Inventory
+[INFO ] 2024-06-05 12:37:12.702 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 12:37:13.010 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 12:37:15.425 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 12:37:27.144 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 12:37:27.715 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 12:37:28.053 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 12:37:28.197 [main] LoggerTest - Login
+[INFO ] 2024-06-05 12:37:30.810 [main] LoggerTest - Click on Inventory
+[INFO ] 2024-06-05 12:48:43.132 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 12:48:43.331 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 12:48:47.464 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 12:49:01.965 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 12:49:02.522 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 12:49:03.822 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 12:49:04.327 [main] LoggerTest - Login
+[INFO ] 2024-06-05 12:49:06.539 [main] LoggerTest - Click on Inventory
+[INFO ] 2024-06-05 12:50:02.803 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 12:50:03.050 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 12:50:06.473 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 12:50:20.820 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 12:50:22.825 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 12:50:23.095 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 12:50:23.767 [main] LoggerTest - Login
+[INFO ] 2024-06-05 12:50:26.318 [main] LoggerTest - Click on Inventory
+[INFO ] 2024-06-05 12:53:35.538 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 12:53:35.786 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 12:53:39.383 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 12:53:55.812 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 12:53:56.279 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 12:53:57.351 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 12:53:57.856 [main] LoggerTest - Login
+[INFO ] 2024-06-05 12:54:00.091 [main] LoggerTest - Click on Inventory
+[INFO ] 2024-06-05 14:26:07.285 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 14:26:07.471 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 14:26:10.223 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 14:26:27.674 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 14:26:28.980 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 14:26:29.162 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 14:26:29.291 [main] LoggerTest - Login
+[INFO ] 2024-06-05 14:26:57.976 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 14:26:58.204 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 14:27:01.897 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 14:27:25.623 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 14:27:26.008 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 14:27:26.604 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 14:27:26.778 [main] LoggerTest - Login
+[INFO ] 2024-06-05 14:27:28.989 [main] LoggerTest - Click on Inventory
+[INFO ] 2024-06-05 14:29:08.166 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 14:29:08.354 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 14:29:11.332 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 14:29:23.013 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 14:29:23.447 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 14:29:23.621 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 14:29:24.019 [main] LoggerTest - Login
+[INFO ] 2024-06-05 14:29:26.236 [main] LoggerTest - Click on Inventory
+[INFO ] 2024-06-05 16:54:29.689 [main] LoggerTest - Chrome launched
+[INFO ] 2024-06-05 16:54:29.832 [main] LoggerTest - Maximize the window
+[INFO ] 2024-06-05 16:54:32.463 [main] LoggerTest - URL navigated google
+[INFO ] 2024-06-05 16:54:53.870 [main] LoggerTest - URL navigated Jarvis
+[INFO ] 2024-06-05 16:54:54.535 [main] LoggerTest - Email entered
+[INFO ] 2024-06-05 16:54:54.887 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-05 16:54:55.045 [main] LoggerTest - Login
+[INFO ] 2024-06-05 16:54:57.264 [main] LoggerTest - Click on Inventory
