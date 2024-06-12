@@ -22,11 +22,11 @@ public class Rooster {
 		
 		// fill form
 		
-		driver.findElement(By.xpath("//input[@name=\"firstName\"]")).sendKeys("Mohit");
+		driver.findElement(By.xpath("//input[@name=\"firstName\"]")).sendKeys("Vedang");
 
 		driver.findElement(By.xpath("//input[@name=\"lastName\"]")).sendKeys("Kumar");
 		
-		driver.findElement(By.xpath("//input[@name=\"email\"]")).sendKeys("mohit@yopmail.com");
+		driver.findElement(By.xpath("//input[@name=\"email\"]")).sendKeys("vedang@yopmail.com");
 		
 		driver.findElement(By.xpath("//div[@class=\"selected-flag\"]")).click();
 		
